@@ -1,3 +1,9 @@
+<div align="center">
+    <p>Hi, I am Rebeka. Pay me a coffee and maybe we can be friends.</p>
+</div>
+
+#
+
 ```javascript
 const rebeka = {
     pronouns: "she" | "her",
@@ -14,8 +20,8 @@ const rebeka = {
 ```
 
 #
+
 <div align="center">
-                <img width="30px" src="linux.svg">
                 <img width="30px" src="css.svg">
                 <img width="30px" src="html.svg">
                 <img width="30px" src="javascript.svg">
