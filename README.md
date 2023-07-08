@@ -15,9 +15,12 @@ const rebeka = {
 
 #
 <div align="center">
-                <img class="icon" width="30px" src="javascript.svg" alt="">
-                <img class="icon" width="30px" src="typescript.svg" alt="">
-                <img class="icon" width="30px" src="react.svg" alt="">
-                <img class="icon" width="30px" src="html.svg" alt="">
-                <img class="icon" width="30px" src="css.svg" alt="">
+                <img width="30px" src="css.svg">
+                <img width="30px" src="html.svg">
+                <img width="30px" src="javascript.svg">
+                <img width="30px" src="typescript.svg">
+                <img width="30px" src="react.svg">
+                <img width="30px" src="wordpress.svg">
+                <img width="30px" src="git.svg">
+                <img width="30px" src="vs.svg">
 </div>
