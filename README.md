@@ -1,5 +1,5 @@
 <div align="center">
-    <h3>Hi, I am Rebeka. Pay me a coffee and maybe we can be friends.</h3>
+    <h3>Hi, I am Rebeka. Pay me a coffee and maybe we can be friends.</h3> 
 </div>
 
 #
@@ -8,26 +8,26 @@
 const rebeka = {
     pronouns: "she" | "her",
     code: [javascript, typescript, html, css, sql],
-    tools: [canva, figma, bootstrap, react, wordpress, mysql],
-    passion : "Tech",
-    career: {
+    tools: [canva, figma, bootstrap, node, react, wordpress, mysql],
+    passion : "Linux",
+    education: {
         graduation: "analysis and systems development",
         course: "systems programmer",
         focus: "front-end development and ui design"
     },
-    challenge: "some projects with javascript for freelancer"
+    carrer: {
+        experience: "suport analyst",
+        position: "programmer"
+    }
+    challenge: "some projects for freelancer"
 }
 ```
 
 #
 
 <div align="center">
-                <img width="40px" src="javascript.svg">
-                <img width="40px" src="typescript.svg">
-                <img width="40px" src="react.svg">
-                <img width="40px" src="wordpress.svg">
-                <img width="40px" src="css.svg">
-                <img width="40px" src="html.svg">
-                <img width="40px" src="vs.svg">
-                <img width="40px" src="git.svg">
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg">
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
 </div>
