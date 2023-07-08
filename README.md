@@ -1,5 +1,5 @@
 <div align="center">
-    <p>Hi, I am Rebeka. Pay me a coffee and maybe we can be friends.</p>
+    <h3>Hi, I am Rebeka. Pay me a coffee and maybe we can be friends.</h3>
 </div>
 
 #
@@ -9,7 +9,7 @@ const rebeka = {
     pronouns: "she" | "her",
     code: [javascript, typescript, html, css, sql],
     tools: [canva, figma, bootstrap, react, wordpress, mysql],
-    passion : "linux",
+    passion : "Tech",
     career: {
         graduation: "analysis and systems development",
         course: "systems programmer",
@@ -22,12 +22,12 @@ const rebeka = {
 #
 
 <div align="center">
-                <img width="30px" src="css.svg">
-                <img width="30px" src="html.svg">
-                <img width="30px" src="javascript.svg">
-                <img width="30px" src="typescript.svg">
-                <img width="30px" src="react.svg">
-                <img width="30px" src="wordpress.svg">
-                <img width="30px" src="git.svg">
-                <img width="30px" src="vs.svg">
+                <img width="40px" src="javascript.svg">
+                <img width="40px" src="typescript.svg">
+                <img width="40px" src="react.svg">
+                <img width="40px" src="wordpress.svg">
+                <img width="40px" src="css.svg">
+                <img width="40px" src="html.svg">
+                <img width="40px" src="vs.svg">
+                <img width="40px" src="git.svg">
 </div>
