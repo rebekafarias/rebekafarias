@@ -15,6 +15,7 @@ const rebeka = {
 
 #
 <div align="center">
+                <img width="30px" src="linux.svg">
                 <img width="30px" src="css.svg">
                 <img width="30px" src="html.svg">
                 <img width="30px" src="javascript.svg">
