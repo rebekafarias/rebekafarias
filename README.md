@@ -1,6 +1,6 @@
 <div align="center">
     <img src="https://gist.github.com/theAdityaNVS/f5b585d1082da2dffffea32434f37956/raw/7f9552d0a179b4f84059259fa878199e369b069c/GitHub-logo.gif">
-    <p>Hi, I am Rebeka. Developer with focus on Front-End. Pay me a coffee and maybe we can be friends.</p>
+    <h3>Hi, I am Rebeka. Developer with focus on Front-End. <br> Pay me a coffee and maybe we can be friends.</h3>
 </div>
 
 #
