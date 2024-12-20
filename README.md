@@ -1,8 +1,9 @@
-Hello, there! Welcome to my GitHub profile. 
+Hi, guys! Welcome to my GitHub profile. 
 
-- 👨‍💻 **System Developer**.
-- 🎓 **Graduated from Mackenzie University**.
-- 📱 **Currently learning mobile development for Android**.
+- 👨‍💻 Systems Developer.
+- 🎓 Graduated from Mackenzie University.
+- 📱 Currently learning mobile development for Android.
+- ☕ Pay me a coffee and maybe we can be friends. 
 
 <img src="https://raw.githubusercontent.com/rebekafarias/rebekafarias/refs/heads/main/coder.webp" alt="Coder Image" width="239" height="149"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebekafarias&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" width="270" height="149"/>
 
@@ -19,5 +20,3 @@ val rebeka = mapOf(
     "operatingSystems" to listOf("Linux")
 )
 ```
-
-Pay me a coffee and maybe we can be friends. 
